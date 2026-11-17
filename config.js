@@ -1,0 +1,4 @@
+// ใส่ค่าจาก Supabase > Project Settings > API
+window.CFG={SUPABASE_URL:"https://wlvhiyrsvaxfzkpitjct.supabase.co",SUPABASE_KEY:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndsdmhpeXJzdmF4ZnprcGl0amN0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA1ODk4ODUsImV4cCI6MjA4NjE2NTg4NX0.BsE7vZHveqos1wt-ADPrzmUW0PzdY9cfVrvu8ahW4xI",
+ADMIN_USER:"pisit2000",ADMIN_PASS:"10206455",STUDENT_PASS:"789456123",
+LEAVE_SEC:5,LATE_HOURS:3,SUSPEND_HOURS:2};
